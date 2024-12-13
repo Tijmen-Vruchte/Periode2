@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Opdracht_5_6
+namespace Opdracht_5_7
 {
     public class Persoon
     {
@@ -22,7 +22,7 @@ namespace Opdracht_5_6
 
         }
 
-        public Persoon (string  naam, int leeftijd)
+        public Persoon(string naam, int leeftijd)
         {
             Naam = naam;
             Leeftijd = leeftijd;
